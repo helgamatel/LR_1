@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LR-1</string>
+    <string name="FIO">Matel Olga Viktorovna</string>
+    <string name="SP">Mathematical and software for mobile devices</string>
+    <string name="GR">Group №05</string>
+    <string name="V">Portrait view</string>
+    <string name="H">Landscape view</string>
+</resources>
