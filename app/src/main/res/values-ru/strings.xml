@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LR-1</string>
+    <string name="FIO">Мател Ольга Викторовна</string>
+    <string name="SP">Математическое и программное обеспечение мобильных устройств</string>
+    <string name="GR">Группа №05</string>
+    <string name="V">Вертикальная ориентация</string>
+    <string name="H">Горизонтальная ориентация</string>
+</resources>
